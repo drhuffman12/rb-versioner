@@ -1,6 +1,6 @@
 
 # rb-versioner
-Version: 0.0.1
+Version: 0.0.3
 
 [![ruby CI](https://github.com/drhuffman12/rb-versioner/actions/workflows/ruby.yml/badge.svg)](https://github.com/drhuffman12/rb-versioner/actions/workflows/ruby.yml)
 
