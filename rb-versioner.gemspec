@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name        = "rb-versioner"
-  spec.version     = "0.0.1"
+  spec.version     = "0.0.3a"
   spec.authors     = ["Daniel Huffman"]
   spec.email       = ["drhuffman12@gmail.com"]
   spec.summary     = "simple version bumper."
